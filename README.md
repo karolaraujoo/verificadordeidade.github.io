@@ -1,1 +1,1 @@
-# verificadordeidade.github.io
+# http://verificadordeidade.github.io
